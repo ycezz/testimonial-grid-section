@@ -104,7 +104,7 @@ h2, p {
     grid-area: card1;
     background: var(--moderateviolet);
     color: var(--white);
-    background-image: url('/images/bg-pattern-quotation.svg');
+    background-image: url('./images/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
     background-position: 85% 0%;
 }
